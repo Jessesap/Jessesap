@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello World, I'm Jessé 
+
+🧐-->I am studying Computer Science at the Federal Institute of Science and Technology of the Triangle of Minas Gerais.
 
 <!--
 **Jessesap/Jessesap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
