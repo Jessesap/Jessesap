@@ -1,6 +1,6 @@
-### Hello World, I'm Jessé 
+### Hello World, I'm Jessé.I'm a computer scientist and I love the field of data sciences.
 
-🧐-->I am studying Computer Science at the Federal Institute of Science and Technology of the Triangulo Mineiro.
+🧐-->.
 ♂️ --> he/his
 <div align="center">
   <a href="https://github.com/Jessesap">
